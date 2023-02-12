@@ -12,7 +12,7 @@ mixer.music.load('GANADARA.mp3') #Loading Music File
 
 
 def send_tele(word):
-   bot = tel.Bot(token="5503523524:AAFqRO1K0Xx1fTmI5c6NNWcPp_0Q06BeByU")
+   bot = tel.Bot(token="")
    chat_id =  5581126225 #-1001873940891  
    image = 'cap.png'
    image2 = 'picture.png'
